@@ -3,6 +3,9 @@
 This project is a **Single Page CV website** created using **HTML**.  
 It presents personal and professional information in a clean and structured format.
 
+Project URL:
+https://roadmap.sh/projects/single-page-cv
+
 ## 📌 Project Description
 The goal of this project is to build a **semantic HTML webpage** that represents a curriculum vitae (CV).  
 The page includes sections such as personal details, skills, education, experience, and social links.
